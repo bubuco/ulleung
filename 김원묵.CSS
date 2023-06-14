@@ -1,0 +1,43 @@
+.bg {
+    height: 100%;
+    width: 100%;
+    background-image: url(/울릉도/울릉도3.png);
+    color: white;
+    font-size: 50px  ;
+}
+
+.textsize1 {
+    font-size: 25px;
+}
+
+
+
+
+header {
+    height: 30px;
+    padding: 1rem;
+    color: white;
+    background: rgb(64,74,158);
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  a {
+    text-decoration-line: none;
+  }
+  
+  a:link {
+    color : white;
+  }
+  a:visited {
+    color : white;
+  }
+  a:hover {
+    color : gainsboro;
+  }
+  a:active {
+    color : white
+  }
+  

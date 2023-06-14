@@ -1,0 +1,106 @@
+.bg_img {
+    width: 100%;
+    height: 100%;
+    background-image: url(/울릉도/울릉도3.png);
+
+}
+
+.main {
+    top: 10000px;
+    left: 10000px;
+position: absolute;
+}
+
+.fp {
+    display: flex;
+    justify-content: left;
+    background-color: rgba(143, 216, 227, 0.516);
+    margin: 100px;
+}
+
+.sp {
+    display: flex;
+    justify-content: right;
+    background-color: rgba(143, 216, 227, 0.516);
+    margin: 100px;
+}
+
+.tp {
+    display: flex;
+    justify-content: left;
+    background-color: rgba(143, 216, 227, 0.516);
+    margin: 100px;
+}
+
+.size  {
+    height: 100%;
+    width: 100%;
+}
+
+.main_bg{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(42, 77, 107);
+    justify-content: center;
+}
+.title_part{
+    height: 190px;
+    width: 100%;
+    background-color: rgba(90, 92, 218, 0.538);
+    color: white;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+}
+.content_main_title {
+    color: rgb(53, 54, 124);
+    font-size: x-large;
+    
+}
+
+.content_title {
+    color: rgb(90, 92, 218);
+    font-size: medium;
+    
+}
+
+.content {
+    color: black;
+    font-size:large;
+}
+
+.content_big_title {
+    color:black;
+    font-size:xx-large;
+
+    
+}
+
+.content_title_chart {
+    color: rgb(90, 92, 218);
+    font-size: medium;
+    display: flex;
+}
+
+.title_sp {
+    color: white;
+}
+
+.title_part_sp {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(90, 92, 218, 0.244);
+    color: white;
+}
+
+.chart_content {
+    color: rgb(18, 18, 53);
+    display: flex;
+    justify-content: center;
+}
+
+.chart_content_title {
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
